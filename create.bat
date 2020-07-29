@@ -1,0 +1,1 @@
+ mvn archetype:generate -DarchetypeGroupId=com.ax -DarchetypeArtifactId=springmvc-quick-start -DarchetypeVersion=4.0 -DgroupId=com.mydemo -DartifactId=Hello -Dversion=1.0
